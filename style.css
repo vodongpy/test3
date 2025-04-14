@@ -1,0 +1,30 @@
+body {
+    background-color: antiquewhite;
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+}
+
+header{
+    height: 450;
+    width: auto;
+    background-color: aqua;
+}
+a{
+    text-decoration-color: chartreuse;
+    background-color: chocolate;
+}
+.title {
+    background-color: aqua;
+    border-radius: 5%;
+}
+.heading_1 {
+    background-size: auto;
+}
+h1{
+    background-color: blue;
+}
+h1.heading_1{
+    size: 8px;
+    text-shadow: saddlebrown;
+}
+
+
